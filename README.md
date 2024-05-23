@@ -26,3 +26,7 @@ The status label is used to display messages to the user.
 Main Loop:
 
 root.mainloop() starts the application's main loop, allowing the graphical interface to respond to user interactions.
+
+
+
+It also has a script for Denoiser 
